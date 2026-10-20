@@ -13,6 +13,14 @@
 ## Tester la creation d'un consumer 
 <img width="1155" height="286" alt="image" src="https://github.com/user-attachments/assets/7861740f-6ed9-43da-a0d6-0c2e21b0fc8f" />
 
+## Tester un supplier
+<img width="1570" height="638" alt="image" src="https://github.com/user-attachments/assets/f8935ef9-7161-48f4-b0d4-d9f5036d5503" />
+
+## Tester le Stream
+<img width="1805" height="641" alt="image" src="https://github.com/user-attachments/assets/c597849a-6a0d-406a-8d0f-af3b7492c813" />
+
+
+
 
 
 
