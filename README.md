@@ -21,6 +21,8 @@
 
 ## Afficher les résultats du Stream Data Analytics
 <img width="1164" height="690" alt="image" src="https://github.com/user-attachments/assets/85bf971a-5cde-4db3-8ab1-fecd7ecba531" />
+<img width="763" height="510" alt="image" src="https://github.com/user-attachments/assets/3965dad0-ba69-47cd-83bf-12612844465a" />
+
 
 
 
