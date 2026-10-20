@@ -19,6 +19,9 @@
 ## Tester le Stream
 <img width="1805" height="641" alt="image" src="https://github.com/user-attachments/assets/c597849a-6a0d-406a-8d0f-af3b7492c813" />
 
+## Afficher les résultats du Stream Data Analytics
+<img width="1164" height="690" alt="image" src="https://github.com/user-attachments/assets/85bf971a-5cde-4db3-8ab1-fecd7ecba531" />
+
 
 
 
