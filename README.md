@@ -10,6 +10,10 @@
 <img width="1234" height="589" alt="image" src="https://github.com/user-attachments/assets/6bf0f9f6-8bc6-45da-8d86-b7e0062a0104" />
 <img width="1107" height="615" alt="image" src="https://github.com/user-attachments/assets/2b7098af-0014-4b4a-a500-0ef52e1619da" />
 
+## Tester la creation d'un consumer 
+<img width="1155" height="286" alt="image" src="https://github.com/user-attachments/assets/7861740f-6ed9-43da-a0d6-0c2e21b0fc8f" />
+
+
 
 
 
